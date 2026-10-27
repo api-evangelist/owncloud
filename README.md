@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ownCloud is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://owncloud.com/
+ownCloud provides open-source file sync and share solutions for enterprises and individuals, offering on‑premises and cloud‑based deployments. It enables secure collaboration, file access across devices, and integration with third‑party services, emphasizing data sovereignty and compliance.
+
+**Areas:** File Sharing · Secure Collaboration · Cloud Storage · Data Sovereignty · SaaS · On-Premises · Compliance
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://owncloud.com/)
+- [Documentation](https://doc.owncloud.com/)
+- [Getting started](https://owncloud.com/get-started/)
+- [Pricing](https://owncloud.com/pricing/)
+- [Support](https://owncloud.com/support)
+- [Changelog](https://owncloud.com/changelog/)
+- [Security](https://owncloud.com/security/)
+- [Compliance](https://owncloud.com/security)
+- [Privacy policy](https://owncloud.com/privacy-statement/)
+- [GitHub](https://github.com/owncloud)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/owncloud/](https://apis.io/providers/owncloud/).
